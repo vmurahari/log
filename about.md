@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+In this log you will find articles that I have collected over the years which I find very useful in becoming a good engineering leader. You will also find some code samples too..

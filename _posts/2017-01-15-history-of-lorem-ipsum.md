@@ -1,13 +1,13 @@
 ---
 layout: post
-title: History of Lorem Ipsum
+title: Using the principles of Quantum for team management
 tags: [Demo, Lorem Ipsum]
 comment: true
 ---
 
 ### What is Lorem ipsum?
 
-A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available.
+I love this article Managing for Unimaginable OutcomesA quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available.
 
 For example, when designing a brochure or book, a designer will insert Lorem ipsum text if the real text is not available. The Lorem ipsum text looks real enough that the brochure or book looks complete. The book or brochure can be shown to the client for approval.
 

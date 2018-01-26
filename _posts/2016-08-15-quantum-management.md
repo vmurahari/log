@@ -12,5 +12,6 @@ I came across this article on how to use physics laws to manage software team an
 Thanks to Instagaram head of engineering for providing insights into desinging a team with few depdencies similar to software design
 
 Have fun reading:
+
 [James Everingham] http://firstround.com/review/the-principles-of-quantum-team-management/
 

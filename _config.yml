@@ -13,4 +13,4 @@ permalink: pretty
 # Third-party services
 # just leave empty to disable it
 google_analytics:
-disqus_shortname: hnbloggithub
+#disqus_shortname: hnbloggithub

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About TextLog - Minimalist, distraction-free and content-focused Jekyll theme
+title: How to utilize Data Lake efficently
 tags: [Demo, About]
 author: Heiswayi Nrird
 comment: true

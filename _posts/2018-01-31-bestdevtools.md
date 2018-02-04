@@ -11,12 +11,12 @@ One of the best compliation of tools engineering team can use on daily basis to 
 important and emerging tech.
 
 My favorites:
-# React
-# GitHub
-# Atom
-# Gitlogs
-# Discover
-# DailyNow
++ React
++ GitHub
++ Atom
++ Gitlogs
++ Discover
++ DailyNow
 
 
 [Top 50 tools from Stackshare](https://medium.com/@stackshareio/top-50-developer-tools-of-2017-7e616928416b)

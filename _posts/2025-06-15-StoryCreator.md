@@ -4,7 +4,6 @@ title: Building a Story Creator for My 9-Year-Old
 tags: [Using AI]
 comment: false
 ---
-# Building a Story Creator for My 9-Year-Old
 
 My daughter is spending the summer in India with family, and Father's Day was coming up. She's 9, loves Bluey, devours Nancy Drew books, and has always been incredibly imaginative with stories.
 

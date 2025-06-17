@@ -18,7 +18,7 @@ An interactive story builder where kids answer questions and their responses get
 - Friendship stories like Elephant & Piggie
 - Space adventures, doctor stories, magical quests
 
-The technical part was creating branching logic - each answer influences the next question and the final story outcome.
+The technical part was creating branching logic - each answer influences the next question and the final story outcome. I used Claude to help with the development - from thinking through the story structure to coding the interactive elements.
 
 ## Why I Made It Free
 

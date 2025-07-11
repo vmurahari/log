@@ -1,4 +1,9 @@
-# Building an Autonomous Real Estate Investment Agent for Austin
+---
+layout: post
+title: Building an Autonomous Real Estate Investment Agent for Austin
+tags: [Using AI]
+comment: true
+---
 
 I'm building an AI agent to solve a problem that costs me 1-2 hours every day: finding good real estate investment opportunities in Austin's fast-moving market.
 

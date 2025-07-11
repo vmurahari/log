@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building Your Complete PsArthritis Companion: The First AI Platform for Dual-Condition Management
+title: The First AI Platform for Dual-Condition Management
 tags: [Using AI]
 comment: true
 ---

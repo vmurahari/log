@@ -1,5 +1,9 @@
-# Building Your Complete PsArthritis Companion: The First AI Platform for Dual-Condition Management
-
+---
+layout: post
+title: Building Your Complete PsArthritis Companion: The First AI Platform for Dual-Condition Management
+tags: [services]
+comment: true
+---
 **Project:** [PsA Health Companion](https://ra-health-companion.vercel.app)  
 **Tagline:** "Track patterns. Optimize treatments. Live better."  
 **Timeline:** June-July 2025 (Evolved from RA to PsA specialization)  
